@@ -32,3 +32,5 @@ Comando: pip install sympy
 
 Y con esos pasos realizados el codigo funcionara correctamente.
 
+(Mismos pasos para que el codigo funcione en Visual Studio Code)
+
