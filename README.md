@@ -1,5 +1,8 @@
 # Abpro-Matematica
 
+
+(PARA DESCARGAR EL CODIGO CLICKEAR EL ARCHIVO LLAMADO AbproAreaBajoCurva.py,LOS REDIRECCIONARA A UNA PAGINA DONDE PODRA DESCARGAR EL CODIGO)
+
 Para correr el codigo se debe instalar Python desde la pagina oficial
 https://www.python.org/
 
